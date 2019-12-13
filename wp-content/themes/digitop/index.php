@@ -12,6 +12,5 @@ get_template_part('template/index','brands');
 get_template_part('template/index','advertise2');
 get_template_part('template/index','best-pro');
  get_footer(); ?>
-<?php echo " test"; ?>
 
 
